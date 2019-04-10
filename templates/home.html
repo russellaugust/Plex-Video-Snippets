@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>demo</title>
+</head>
+<body>
+	<h1>which clip do you want to grab?</h1>
+	{% for post in posts %}
+
+		<p><a href="/execute/{{post.id}}">{{post.title}} - {{post.type}}</a><br>{{post.playhead}}<br>{{post.path}}</p>
+	{% endfor %}
+</body>
+</html>

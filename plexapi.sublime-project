@@ -1,0 +1,22 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "Python Plex",
+			"shell_cmd": "'virtualenv/plexapi/bin/python' '$file'"
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"virtualenv": "plexapi"
+}

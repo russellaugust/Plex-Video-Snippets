@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"medi",
+				"mediaid\tparam"
+			],
+			[
+				"media",
+				"mediainfo"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"create",
+				"createvideo\tfunction"
+			],
+			[
+				"plex",
+				"plexViewCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "flaskController.py",
+			"settings":
+			{
+				"buffer_size": 891,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plexController.py",
+			"settings":
+			{
+				"buffer_size": 3119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "credentials.py",
+			"settings":
+			{
+				"buffer_size": 239,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demoToRun.py",
+			"settings":
+			{
+				"buffer_size": 705,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "80/20 in the morning\norganize everything\n\npomodoro 35/05 during the day.\n\nlist out things you want to do\nideas, whatever.\n\nQVC Live Show - Just selling stuff\n\tjanuary\nmusic video using indigo as the base.  something like stencils, spraypaint, but dipped indigo.  \n\tno time\nfrequency earth\n\tthis month\ngeorge documentary\n\tthis month\n\na youtube channel where someone reviews random things around their house.  literally anything they can find.\n",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix",
+				"name": "80/20 in the morning"
+			}
+		},
+		{
+			"file": "plexapi.sublime-project",
+			"settings":
+			{
+				"buffer_size": 396,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Python Plex",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Python Plex",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Python Plex",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Test",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Test",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"buildviwer",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"python",
+				"Build With: Python Plex"
+			],
+			[
+				"build",
+				"Build With: Test"
+			],
+			[
+				"anaconda: disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi/templates"
+	],
+	"file_history":
+	[
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi/credentials.py",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi/home.html",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi/plexController.py",
+		"/Users/russellanderson/Desktop/stuff",
+		"/Users/russellanderson/Desktop/plexapi/plexapi.sublime-project",
+		"/Users/russellanderson/Desktop/voting",
+		"/Users/russellanderson/Desktop/plexapi/plexController.py",
+		"/Users/russellanderson/Desktop/random top 10 list generator",
+		"/Users/russellanderson/Desktop/plexapi/test2.py",
+		"/Users/russellanderson/Desktop/plexapi/credentials.py",
+		"/Users/russellanderson/Desktop/plexapi/flaskController.py",
+		"/Users/russellanderson/Desktop/yt.txt",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Bash and Terminal/Terminal Commands.md",
+		"/Users/russellanderson/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Bash and Terminal/plexController.py",
+		"/Volumes/openHAB-conf/things/amherst.things",
+		"/Volumes/openHAB-conf/items/amherst.items",
+		"/Users/russellanderson/Desktop/songs",
+		"/Users/russellanderson/Desktop/link.txt",
+		"/Users/russellanderson/Dropbox/Shared with Friends/Rob Schultz/Better Radio/Audio Swap/End of Feed/'The human body is, on average, 70% tears.',",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/Posting System/PostFiles.py",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/Posting System/PostingMainController.py",
+		"/Users/russellanderson/Desktop/SFX to get",
+		"/Users/russellanderson/Desktop/untitled.txt",
+		"/Users/russellanderson/Desktop/LoadDictionary.py",
+		"/Users/russellanderson/Desktop/sstvDemo.py",
+		"/Users/russellanderson/Downloads/Farmers_5_PICKUP_Shots.edl",
+		"/Users/russellanderson/Desktop/notes",
+		"/Users/russellanderson/Dropbox/audit.log",
+		"/Users/russellanderson/Dropbox/events.log",
+		"/Users/russellanderson/Dropbox/openhab.log",
+		"/Users/russellanderson/Desktop/FINAL CUT PRO.txt",
+		"/Users/russellanderson/Desktop/dmeo.py",
+		"/Users/russellanderson/Desktop/test.py",
+		"/Volumes/openHAB-conf/rules/amherst.rules",
+		"/Users/russellanderson/Documents/Virtual Machines.localized/MS-DOS.vmwarevm/MS-DOS.vmx",
+		"/Users/russellanderson/Desktop/INTERACTIVE THEATER TO SEE",
+		"/Users/russellanderson/Documents/PSSH Hosts/nexis_hosts",
+		"/Users/russellanderson/Documents/PSSH Hosts/network_hosts",
+		"/Users/russellanderson/Desktop/youtube.txt",
+		"/Users/russellanderson/Dropbox/Postings/1808 Mowhawk/2018-04-28 1247 Mix Prep Ep1/NOTES/Ep1 Mix Notes from Editor",
+		"/Users/russellanderson/Desktop/Parent through Expression with Offset",
+		"/Users/russellanderson/Desktop/Undulation.txt",
+		"/Users/russellanderson/Desktop/Adobe Illustrator CC 2018 v22.0.1",
+		"/Users/russellanderson/Desktop/re_535299_be38fbf8cf7f0fc87b17",
+		"/Users/russellanderson/Desktop/demo.py",
+		"/Users/russellanderson/Desktop/PREP/EDL_30sec UNWELCOME MATS CUT25_V1 VIDEO.edl",
+		"/Users/russellanderson/Desktop/PREP/EDL_30sec UNWELCOME MATS CUT25_V2 VIDEO.edl",
+		"/Users/russellanderson/Desktop/PREP/EDL_30sec UNWELCOME MATS CUT25_V3 VIDEO.edl",
+		"/Users/russellanderson/Desktop/PREP/EDL_30sec UNWELCOME MATS CUT25_V4 VIDEO.edl",
+		"/Users/russellanderson/Desktop/PREP/EDL_30sec UNWELCOME MATS CUT25_V5 VIDEO.edl",
+		"/Users/russellanderson/Downloads/teasdf.txt",
+		"/Users/russellanderson/Desktop/PFEF 4000 9207 3556 7264",
+		"/Users/russellanderson/Desktop/te",
+		"/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/Plex Video Snippet/GrabPlexVideo.py",
+		"/Users/russellanderson/Desktop/for Video potentially",
+		"/Users/russellanderson/Desktop/BTC stuff",
+		"/Users/russellanderson/Desktop/serial",
+		"/Users/russellanderson/Desktop/todownload.txt",
+		"/Users/russellanderson/Desktop/CCC.txt",
+		"/Volumes/EDIT02/Desktop/untitled",
+		"/Users/russellanderson/Desktop/untitled",
+		"/Users/russellanderson/Desktop/50620_SGRA_Farmers/•CUTS 200 TURF 30.avb",
+		"/Volumes/ASSIST02/Desktop/untitled folder/hey",
+		"/Users/russellanderson/Desktop/for tc",
+		"/Users/russellanderson/Desktop/ROGUE BLACK FRIDAY 23_7 EDIT 21.sub.01.edl",
+		"/Users/russellanderson/Downloads/ROUGE DARKSIDE_Shot FOR VFX.edl",
+		"/Users/russellanderson/Desktop/test results"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 286.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"playingmedia",
+			"print",
+			"playhead",
+			"Playhead",
+			"playhead",
+			"plexViewCount",
+			".mp4",
+			"os",
+			"split",
+			"fileLocation",
+			"minute"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "flaskController.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "plexController.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2967,
+								2967
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "credentials.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "demoToRun.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"auto_name": "80/20 in the morning",
+							"default_dir": "/Users/russellanderson/Dropbox/ Records/Personal/Code Snippets and Scripts/Python/plexapi",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "plexapi.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Python Plex",
+	"project": "plexapi.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"a song you like with a color in the title",
+				"Day one: a song you like with a color in the title"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
