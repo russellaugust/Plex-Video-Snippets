@@ -37,6 +37,7 @@
 ehthumbs.db
 Thumbs.db
 
-# Credential Files #
-####################
+# Credential and Test Files #
+#############################
 credentials.py
+Test*
