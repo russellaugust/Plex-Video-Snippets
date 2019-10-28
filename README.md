@@ -1,4 +1,4 @@
-# Plex-Video-Snippets
+# Plex Video Snippets (Version 2)
 
 This is a program I built that runs alongside Plex using Flask.
 
