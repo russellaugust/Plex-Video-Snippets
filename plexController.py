@@ -26,8 +26,8 @@ def createvideo(playingmediafilepath, playheadseconds):
 def findplayingmedia():
 
 	# Connect Remotely but slower
-	#account = MyPlexAccount(credentials.login['username'], credentials.login['password'])
-	#plex = account.resource(credentials.login['plexhost']).connect() # returns a PlexServer instance
+	# account = MyPlexAccount(credentials.login['username'], credentials.login['password'])
+	# plex = account.resource(credentials.login['plexhost']).connect() # returns a PlexServer instance
 
 	# Connect faster locally with token credential
 	plex = PlexServer(credentials.login['baseurl'], credentials.login['token'])
