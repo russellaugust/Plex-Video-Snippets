@@ -9,11 +9,11 @@ myplayablemedias = []
 def displaymedia():
     mymedias = pc.findplayingmedia()
     for mediainfo in mymedias:
-		if mediainfo['convert']:
-			myplayablemedias.append(mediainfo)
-		else:
-			print ("this was a music track")
-	
+        if mediainfo['convert']:
+            myplayablemedias.append(mediainfo)
+        else:
+            print ("this was a music track")
+
     return render_template("home.html", posts = myplayablemedias)
 
 @app.route("/execute/<mediaid>")
@@ -22,6 +22,11 @@ def executesave(mediaid):
     mediaidmatch = (item for item in myplayablemedias if item["id"] == mediaid).next()
     pc.createvideo(mediaidmatch['path'], mediaidmatch['playhead'])
     return (mediaidmatch["title"] + " is being rendered out.  Check Dropbox.")
+
+@app.route('/rest')
+def rest_live():
+    live_medias = pc.findplayingmedia()
+    return (jsonify(live_medias))
 
 @app.route('/hello')
 def hello():
