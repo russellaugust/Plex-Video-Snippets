@@ -42,3 +42,5 @@ Thumbs.db
 credentials.py
 Test*
 virtualenv
+plexapi.sublime-workspace
+plexapi.sublime-project
