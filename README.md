@@ -10,4 +10,4 @@ Go to the server's path (set by Flask) and you'll get a list of what's currently
 
 Future goals with this is to get a better way to server up the information, possibly setting up a RESTful API.  Also looking into how to connect it cleanly with something like Apple Shortcuts.
 
-Any input or thoughts is very welcome!
+Any thoughts are welcome!
