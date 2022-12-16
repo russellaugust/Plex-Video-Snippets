@@ -22,6 +22,6 @@ request==1.0.2
 requests==2.20.0
 six==1.11.0
 tqdm==4.28.1
-urllib3==1.24
+urllib3==1.26.5
 websocket-client==0.53.0
 Werkzeug==0.14.1
